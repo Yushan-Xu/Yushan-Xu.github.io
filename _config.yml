@@ -13,7 +13,7 @@ title                    : "Yushan Xu"
 title_separator          : "-"
 name                     : &name "Yushan Xu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://yushan-xu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_7702.JPG"
+  avatar           : "/images/IMG_7702.JPG"
   name             : "Yushan Xu"
   pronouns         : "she/her"  
   bio              : "Research Assistant in Spatial Acoustics and Immersive Audio at Imperial College London"
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Yushan Xu"
+  linkedin         : "https://www.linkedin.com/in/yushan-xu-a1598233a/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
