@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-📄 [**Download full CV (PDF)**](/files/YushanXu_CV.pdf)
+📄 [**Download full CV (PDF)**](/files/CV - Yushan XU.pdf)
 
 ---
 
