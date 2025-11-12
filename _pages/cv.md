@@ -1,64 +1,68 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+📄 [**Download full CV (PDF)**](/files/YushanXu_CV.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 🎓 Education
+**Imperial College London (ICL)** — MSc in Design Engineering  
+09/2024–2025 · GPA: 67.47% (Merit, ~3.6/4.0 equivalent)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Shanghai University (SHU)** — BEng in Industrial Design  
+09/2020–06/2024 · GPA: 3.32/4.0 (85.15/100)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🔬 Research Experience
+**Research Assistant**, Audio Experience Design Group, Imperial College London  
+01/2025–Present  
+Supervised by Prof. Lorenzo Picinali  
+- Conduct research on spatial hearing and auditory perception through VR-based experiments in Unity.  
+- Focus areas: HRTF measurement & personalization, localization tasks, and Precedence Effect studies.  
+- Responsible for experimental design, Unity implementation, audio calibration, UI development, and participant testing.
+
+---
+
+## 🧩 Academic Projects
+**Anti-Fall Belt for Disabled Elderly** · 04/2022–2023  
+Led academic writing, prototyping, and user testing of inflatable wearable.
+
+**Home Management and Service Design for COPD** · 04/2021–2022  
+Conducted early-stage UX research and system prototype design.
+
+---
+
+## 💼 Internship Experience
+**Design Operations Intern**, NFT Dept., HashKey Co., Ltd., Shanghai · 06–08/2024  
+Designed interactive H5 game for Web3 users (150K+ reach).
+
+**Product Designer**, Caige Design & Intelligence Group Co., Harbin · 06–08/2022  
+Contributed to smart bus station design & prototyping.
+
+---
+
+## 🎶 Extracurricular Activities
+**President**, Original Music Club, SHU · 09/2021–2022  
+Organized live events and performed as keyboardist at university and public festivals.  
+
+**Volunteer**, Shanghai Science & Technology Museum · 02/2022–2023  
+Led the Shanghai Universities Volunteer Team.
+
+---
+
+## 🏅 Awards & Honors
+- Third Prize in Product Design — 9th Shanghai University Cultural & Creative Works Exhibition (2024)  
+- Excellent Student of University, SHU (2021–2022)  
+- Leadership Scholarship, SHU (2021–2022)
+
+---
+
+## 🧠 Skills
+**Design Software:** Unity, MaxMSP, TouchDesigner, KeyShot, Processing, SolidWorks, AutoCAD  
+**Programming:** C, Java, Python  
+**Languages:** English (fluent), Mandarin (native)
