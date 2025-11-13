@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Mushroom"
+date: 2025-01-01
 permalink: /_portfolio/Mushroom/
 author_profile: true
 classes: wide
@@ -14,7 +15,6 @@ Through sound, projection, lighting and costume, it shows the coexistence of phi
 
 ---
 
-### Project Documentation
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <h3 style="margin: 0;">Project Documentation</h3>
   <a href="/files/Mushroom.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">Download PDF</a>
