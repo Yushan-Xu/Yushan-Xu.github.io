@@ -2,11 +2,9 @@
 layout: single
 title: "Portfolio"
 permalink: /portfolio/
-author_profile: false
+author_profile: true
 classes: wide
 ---
-
-<section style="max-width: 900px; margin: 0 auto;">
 
 <h1 style="font-weight:700; font-size:1.8rem; margin-bottom:0.5rem;">Portfolio</h1>
 <p style="color:#555; font-size:1.05rem; line-height:1.7;">
@@ -60,5 +58,3 @@ Each project reflects an intersection between <b>art, design, and engineering</b
   </div>
 
 </div>
-
-</section>
