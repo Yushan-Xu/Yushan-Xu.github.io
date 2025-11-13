@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Smell the Sound"
+date: 2025-01-02
 permalink: /_portfolio/SmellTheSound/
 author_profile: true
 classes: wide
@@ -15,7 +16,6 @@ The project explores how technology extends human perception and emotion, integr
 
 ---
 
-### Project Documentation
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <h3 style="margin: 0;">Project Documentation</h3>
   <a href="/files/Smell the Sound.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">Download PDF</a>
