@@ -1,7 +1,7 @@
 ---
 title: "Smell the Sound"
 excerpt: "An audio-olfactory installation transforming voice features into scent."
-collection: projects
+collection: portfolio
 image: "/images/SmellTheSound_Cover.png"
 ---
 
