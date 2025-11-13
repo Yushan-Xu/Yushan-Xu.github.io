@@ -2,9 +2,11 @@
 layout: single
 title: "Smell the Sound"
 permalink: /_portfolio/SmellTheSound/
-author_profile: false
+author_profile: true
 classes: wide
 order: 2
+header:
+  overlay_title: false
 ---
 
 Smell the Sound is a collaborative installation that turns voice into scent in real time.  
