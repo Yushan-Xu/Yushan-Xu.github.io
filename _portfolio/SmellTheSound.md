@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Smell the Sound"
-date: 2025-01-02
+date: 2025-11-25
 show_date: false
 read_time: false
 permalink: /_portfolio/SmellTheSound/
