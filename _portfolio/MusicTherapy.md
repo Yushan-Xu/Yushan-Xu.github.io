@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Music Therapy"
+date: 2025-01-04
 permalink: /_portfolio/MusicTherapy/
 author_profile: true
 classes: wide
@@ -14,7 +15,6 @@ The project explores how tactile interaction and auditory feedback can enhance w
 
 ---
 
-### Project Documentation
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <h3 style="margin: 0;">Project Documentation</h3>
   <a href="/files/Music Therapy.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">Download PDF</a>
