@@ -1,7 +1,7 @@
 ---
 title: "Africa FGM Relief"
 excerpt: "Service and product design for women’s health and empowerment in Africa."
-collection: projects
+collection: portfolio
 image: "/images/AfricaFGMRelief_Cover.png"
 ---
 
