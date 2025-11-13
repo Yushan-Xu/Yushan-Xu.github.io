@@ -2,9 +2,11 @@
 layout: single
 title: "Sleep No More"
 permalink: /_portfolio/SleepNoMore/
-author_profile: false
+author_profile: true
 classes: wide
 order: 3
+header:
+  overlay_title: false
 ---
 
 An immersive theatre interaction design inspired by *Sleep No More*, exploring how sound, light and motion guide audience emotion and participation.  
