@@ -1,7 +1,7 @@
 ---
 title: "Sleep No More"
 excerpt: "An immersive theatre interaction design project."
-collection: projects
+collection: portfolio
 image: "/images/SleepNoMore_Cover.png"
 ---
 
