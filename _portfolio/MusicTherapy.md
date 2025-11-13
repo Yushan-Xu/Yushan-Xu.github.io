@@ -2,9 +2,11 @@
 layout: single
 title: "Music Therapy"
 permalink: /_portfolio/MusicTherapy/
-author_profile: false
+author_profile: true
 classes: wide
 order: 4
+header:
+  overlay_title: false
 ---
 
 An interactive product design combining sound and haptic feedback to promote emotional healing and mindfulness.  
