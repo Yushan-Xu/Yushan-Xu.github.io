@@ -2,9 +2,11 @@
 layout: single
 title: "Mushroom"
 permalink: /_portfolio/Mushroom/
-author_profile: false
+author_profile: true
 classes: wide
 order: 1
+header:
+  overlay_title: false
 ---
 
 This installation expresses the self-consciousness of future human beings, comparing them to mushrooms that reproduce asexually and communicate through electrical pulse signals.  
