@@ -1,7 +1,7 @@
 ---
 title: "Mushroom"
 excerpt: "Installation art exploring the self-consciousness of future human beings through mushroom metaphors."
-collection: projects
+collection: portfolio
 image: "/images/Mushroom_Cover.png"
 ---
 
