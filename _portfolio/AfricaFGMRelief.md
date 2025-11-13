@@ -2,9 +2,11 @@
 layout: single
 title: "Africa FGM Relief"
 permalink: /_portfolio/AfricaFGMRelief/
-author_profile: false
+author_profile: true
 classes: wide
 order: 5
+header:
+  overlay_title: false
 ---
 
 A human-centered design proposal addressing post-FGM recovery and women’s empowerment through accessible healthcare tools.  
