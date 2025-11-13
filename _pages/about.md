@@ -2,7 +2,7 @@
 layout: single
 title: "Profile"
 permalink: /
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
