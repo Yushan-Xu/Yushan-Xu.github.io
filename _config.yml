@@ -15,7 +15,10 @@ author:
   avatar           : "profile.png"
   name             : "Yushan Xu"
   pronouns         : "she/her"  
-  bio              : "Research Assistant in Spatial Acoustics and Immersive Audio at Imperial College London"
+  bio              : "bio: |
+    Research Assistant in Spatial Acoustics <br>
+    and Immersive Audio <br>
+    at Imperial College London"
   location         : "London, UK"
   employer         : "Imperial College London"
   uri              :
