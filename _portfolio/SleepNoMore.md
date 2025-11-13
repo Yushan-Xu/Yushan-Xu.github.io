@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sleep No More"
-date: 2025-01-03
+date: 2025-11-26
 show_date: false
 read_time: false
 permalink: /_portfolio/SleepNoMore/
