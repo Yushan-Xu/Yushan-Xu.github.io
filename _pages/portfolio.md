@@ -49,51 +49,51 @@ Each project reflects an intersection between art, design, and technology.
 <div class="portfolio-grid">
 
   <div class="portfolio-card">
-    <a href="/_portfolio/mushroom/">
+    <a href="/_portfolio/Mushroom/">
       <img src="/images/Mushroom_Cover.png" alt="Mushroom">
     </a>
     <div class="info">
-      <h3><a href="/_portfolio/mushroom/">Mushroom</a></h3>
+      <h3><a href="/_portfolio/Mushroom/">Mushroom</a></h3>
       <p>Installation art exploring the self-consciousness of future human beings through mushroom metaphors.</p>
     </div>
   </div>
 
   <div class="portfolio-card">
-    <a href="/_portfolio/smell-the-sound/">
+    <a href="/_portfolio/SmellTheSound/">
       <img src="/images/SmellTheSound_Cover.png" alt="Smell the Sound">
     </a>
     <div class="info">
-      <h3><a href="/_portfolio/smell-the-sound/">Smell the Sound</a></h3>
+      <h3><a href="/_portfolio/SmellTheSound/">Smell the Sound</a></h3>
       <p>An audio-olfactory installation transforming voice features into scent.</p>
     </div>
   </div>
 
   <div class="portfolio-card">
-    <a href="/_portfolio/sleep-no-more/">
+    <a href="/_portfolio/SleepNoMore/">
       <img src="/images/SleepNoMore_Cover.png" alt="Sleep No More">
     </a>
     <div class="info">
-      <h3><a href="/_portfolio/sleep-no-more/">Sleep No More</a></h3>
+      <h3><a href="/_portfolio/SleepNoMore/">Sleep No More</a></h3>
       <p>An immersive theatre interaction design project.</p>
     </div>
   </div>
 
   <div class="portfolio-card">
-    <a href="/_portfolio/music-therapy/">
+    <a href="/_portfolio/MusicTherapy/">
       <img src="/images/MusicTherapy_Cover.png" alt="Music Therapy">
     </a>
     <div class="info">
-      <h3><a href="/_portfolio/music-therapy/">Music Therapy</a></h3>
+      <h3><a href="/_portfolio/MusicTherapy/">Music Therapy</a></h3>
       <p>Interactive product design exploring emotional healing through sound.</p>
     </div>
   </div>
 
   <div class="portfolio-card">
-    <a href="/_portfolio/africa-fgm-relief/">
+    <a href="/_portfolio/AfricaFGMRelief/">
       <img src="/images/AfricaFGMRelief_Cover.png" alt="Africa FGM Relief">
     </a>
     <div class="info">
-      <h3><a href="/_portfolio/africa-fgm-relief/">Africa FGM Relief</a></h3>
+      <h3><a href="/_portfolio/AfricaFGMRelief/">Africa FGM Relief</a></h3>
       <p>Service and product design for women’s health and empowerment in Africa.</p>
     </div>
   </div>
