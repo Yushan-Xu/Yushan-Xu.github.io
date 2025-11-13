@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Smell the Sound"
-permalink: /_portfolio/smell-the-sound/
+permalink: /_portfolio/SmellTheSound/
 author_profile: false
 ---
 
