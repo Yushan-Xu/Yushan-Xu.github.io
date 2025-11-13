@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Music Therapy"
-permalink: /_portfolio/music-therapy/
+permalink: /_portfolio/MusicTherapy/
 author_profile: false
 ---
 
