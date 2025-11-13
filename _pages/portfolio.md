@@ -4,6 +4,13 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: false
 classes: wide
+header:
+  overlay_image: /images/portfolio-header.jpg
+  overlay_filter: 0.35
+  caption: "Smell the Sound installation at Imperial College London"
+  actions:
+    - label: "View Works"
+      url: "#projects"
 ---
 
 <section style="max-width: 900px; margin: 0 auto;">
@@ -11,11 +18,13 @@ classes: wide
 <h1 style="font-weight:700; font-size:1.8rem; margin-bottom:0.5rem;">Portfolio</h1>
 <p style="color:#555; font-size:1.05rem; line-height:1.7;">
 Welcome to my portfolio — a collection of works that explore <b>sound, sensory experience, and human–technology interaction</b> through design.  
-My projects range from <b>interactive installations</b> and <b>audio-olfactory systems</b> to <b>immersive theatre</b> and <b>human-centered product design</b>.  
-Across different media and materials, I aim to examine how technology reshapes perception, emotion, and social experience.
+My practice spans <b>interactive installations</b>, <b>cross-sensory interfaces</b>, and <b>human-centered hardware design</b>, examining how technology reshapes perception, emotion, and communication.  
+Each project reflects an intersection between <b>art, design, and engineering</b> — from spatial audio and olfactory interaction to tangible product systems.
 </p>
 
 <hr style="margin:2rem 0; border:none; border-top:1px solid #ddd;">
+
+<a id="projects"></a>
 
 <div class="portfolio-grid" style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:2rem;">
 
