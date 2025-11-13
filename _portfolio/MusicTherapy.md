@@ -2,6 +2,7 @@
 layout: single
 title: "Music Therapy"
 date: 2025-01-04
+show_date: false
 permalink: /_portfolio/MusicTherapy/
 author_profile: true
 classes: wide
