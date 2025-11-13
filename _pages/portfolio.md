@@ -4,13 +4,6 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: false
 classes: wide
-header:
-  overlay_image: /images/portfolio-header.jpg
-  overlay_filter: 0.35
-  caption: "Smell the Sound installation at Imperial College London"
-  actions:
-    - label: "View Works"
-      url: "#projects"
 ---
 
 <section style="max-width: 900px; margin: 0 auto;">
@@ -23,8 +16,6 @@ Each project reflects an intersection between <b>art, design, and engineering</b
 </p>
 
 <hr style="margin:2rem 0; border:none; border-top:1px solid #ddd;">
-
-<a id="projects"></a>
 
 <div class="portfolio-grid" style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:2rem;">
 
