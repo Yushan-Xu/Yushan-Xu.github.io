@@ -11,10 +11,8 @@ author_profile: true
 
 ## 🎓 Education
 **Imperial College London (ICL)** — MSc in Design Engineering  
-09/2024–2025 · GPA: 67.47% (Merit, ~3.6/4.0 equivalent)
 
 **Shanghai University (SHU)** — BEng in Industrial Design  
-09/2020–06/2024 · GPA: 3.32/4.0 (85.15/100)
 
 ---
 
