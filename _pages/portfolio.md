@@ -3,7 +3,7 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
-collection: projects
+collection: portfolio
 entries_layout: grid
 ---
 
