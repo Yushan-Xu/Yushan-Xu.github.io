@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sleep No More"
-permalink: /_portfolio/sleep-no-more/
+permalink: /_portfolio/SleepNoMore/
 author_profile: false
 ---
 
