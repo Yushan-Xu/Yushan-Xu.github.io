@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Africa FGM Relief"
+date: 2025-01-05
 permalink: /_portfolio/AfricaFGMRelief/
 author_profile: true
 classes: wide
@@ -14,7 +15,6 @@ The project focuses on dignity, safety and education — providing both physical
 
 ---
 
-### Project Documentation
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <h3 style="margin: 0;">Project Documentation</h3>
   <a href="/files/Africa FGM Relief.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">Download PDF</a>
