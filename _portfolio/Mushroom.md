@@ -8,6 +8,28 @@ author_profile: false
 I use installation art to express my thoughts on the self-consciousness of future human beings, comparing them to mushrooms that reproduce asexually and communicate through electrical pulse signals.  
 Through sound, projection, lighting and clothing as forms of expression, it shows the coexistence of philosophy, art and technology.
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/a4gJsu5z8H8" frameborder="0" allowfullscreen></iframe>
+---
 
-<iframe src="/files/Mushroom.pdf" width="100%" height="800px"></iframe>
+### Project Documentation
+<div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; margin-top: 1rem; margin-bottom: 2rem;">
+  <iframe 
+    src="/files/Mushroom.pdf" 
+    width="100%" 
+    height="800px" 
+    style="border: none;">
+  </iframe>
+</div>
+
+---
+
+### Project Video
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 1.5rem; margin-bottom: 1.5rem; border-radius: 8px;">
+  <iframe 
+    src="https://www.youtube.com/embed/a4gJsu5z8H8" 
+    title="Mushroom"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
