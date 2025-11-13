@@ -3,19 +3,20 @@ layout: single
 title: "Smell the Sound"
 permalink: /_portfolio/SmellTheSound/
 author_profile: false
+classes: wide
+order: 2
 ---
 
 Smell the Sound is a collaborative installation that turns voice into scent in real time.  
-By analyzing vocal features such as frequency, envelope, and harmonics, the system converts speech into olfactory signals, allowing people to “smell” their own sound.  
-The project explores the boundaries between hearing and smell, and reflects on how technology extends human perception and emotion.  
-My role focused on sound analysis, system integration, and Arduino/MaxMSP implementation.
+By analyzing vocal features such as frequency, envelope and amplitude, the system converts speech into olfactory signals, allowing people to “smell” their own sound.  
+The project explores how technology extends human perception and emotion, integrating Max/MSP, Python and Arduino for real-time control.
 
 ---
 
 ### Project Documentation
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <h3 style="margin: 0;">Project Documentation</h3>
-  <a href="/files/Smell the Sound.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">⬇️ Download PDF</a>
+  <a href="/files/Smell the Sound.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">Download PDF</a>
 </div>
 
 <div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; margin-top: 0.5rem; margin-bottom: 2rem;">
