@@ -2,6 +2,7 @@
 layout: single
 title: "Smell the Sound"
 date: 2025-01-02
+show_date: false
 permalink: /_portfolio/SmellTheSound/
 author_profile: true
 classes: wide
