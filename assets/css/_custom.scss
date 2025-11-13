@@ -1,0 +1,6 @@
+/* Hide published date & reading time on portfolio pages */
+.page__meta,
+.page__date,
+.page__readtime {
+  display: none !important;
+}
