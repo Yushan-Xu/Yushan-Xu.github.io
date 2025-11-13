@@ -1,6 +1,17 @@
-/* Hide published date & reading time on portfolio pages */
+/* Hide date and read-time on all project pages */
 .page__meta,
 .page__date,
 .page__readtime {
   display: none !important;
+}
+
+/* Optional: wider content for project pages */
+.layout--single .page__content {
+  max-width: 900px;
+}
+
+/* Better spacing for iframe/pdf embeds */
+iframe {
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
 }
