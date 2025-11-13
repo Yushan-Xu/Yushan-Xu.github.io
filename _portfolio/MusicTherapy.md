@@ -1,7 +1,7 @@
 ---
 title: "Music Therapy"
 excerpt: "Interactive product design exploring emotional healing through sound."
-collection: projects
+collection: portfolio
 image: "/images/MusicTherapy_Cover.png"
 ---
 
