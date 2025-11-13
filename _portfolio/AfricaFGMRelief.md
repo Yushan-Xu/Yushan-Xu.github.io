@@ -1,13 +1,11 @@
 ---
+layout: single
 title: "Africa FGM Relief"
-excerpt: "Service and product design for women’s health and empowerment in Africa."
-collection: portfolio
-image: "/images/AfricaFGMRelief_Cover.png"
+permalink: /_portfolio/AfricaFGMRelief/
+author_profile: false
 ---
 
-### Project Overview
 Africa FGM Relief proposes a service and product design system to support post-FGM physical and psychological recovery.  
-It combines human-centered design research with practical interventions for women’s health and dignity.
+It combines human-centered research with product design to improve women’s well-being and empowerment through accessible healthcare and education tools.
 
-### PDF Preview
 <iframe src="/files/Africa FGM Relief.pdf" width="100%" height="800px"></iframe>
