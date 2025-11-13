@@ -3,17 +3,19 @@ layout: single
 title: "Mushroom"
 permalink: /_portfolio/Mushroom/
 author_profile: false
+classes: wide
+order: 1
 ---
 
-I use installation art to express my thoughts on the self-consciousness of future human beings, comparing them to mushrooms that reproduce asexually and communicate through electrical pulse signals.  
-Through sound, projection, lighting and clothing as forms of expression, it shows the coexistence of philosophy, art and technology.
+This installation expresses the self-consciousness of future human beings, comparing them to mushrooms that reproduce asexually and communicate through electrical pulse signals.  
+Through sound, projection, lighting and costume, it shows the coexistence of philosophy, art and technology.
 
 ---
 
 ### Project Documentation
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <h3 style="margin: 0;">Project Documentation</h3>
-  <a href="/files/Mushroom.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">⬇️ Download PDF</a>
+  <a href="/files/Mushroom.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">Download PDF</a>
 </div>
 
 <div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; margin-top: 0.5rem; margin-bottom: 2rem;">
