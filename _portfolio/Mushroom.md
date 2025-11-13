@@ -3,6 +3,7 @@ layout: single
 title: "Mushroom"
 date: 2025-01-01
 show_date: false
+read_time: false
 permalink: /_portfolio/Mushroom/
 author_profile: true
 classes: wide
