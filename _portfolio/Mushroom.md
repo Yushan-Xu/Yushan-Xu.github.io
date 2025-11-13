@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mushroom"
-permalink: /_portfolio/mushroom/
+permalink: /_portfolio/Mushroom/
 author_profile: false
 ---
 
