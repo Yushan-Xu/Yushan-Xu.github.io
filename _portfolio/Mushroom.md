@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mushroom"
-date: 2025-01-01
+date: 2025-11-27
 show_date: false
 read_time: false
 permalink: /_portfolio/Mushroom/
