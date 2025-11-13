@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Sleep No More"
+date: 2025-01-03
 permalink: /_portfolio/SleepNoMore/
 author_profile: true
 classes: wide
@@ -14,7 +15,6 @@ It creates a multi-sensory narrative experience through spatial cues and embodie
 
 ---
 
-### Project Documentation
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <h3 style="margin: 0;">Project Documentation</h3>
   <a href="/files/Sleep No More.pdf" download style="text-decoration: none; background: #f3f3f3; padding: 6px 12px; border-radius: 6px; font-size: 0.9rem; border: 1px solid #ccc;">Download PDF</a>
