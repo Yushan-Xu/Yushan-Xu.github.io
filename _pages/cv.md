@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-# Curriculum Vitae
 [Download full CV (PDF)](/files/CV-YushanXu.pdf)
 
 ---
