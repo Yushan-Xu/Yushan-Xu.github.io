@@ -5,18 +5,18 @@ permalink: /cv/
 author_profile: true
 ---
 
-📄 [**Download full CV (PDF)**](/files/CV - Yushan XU.pdf)
+ [**Download full CV (PDF)**](/files/CV - Yushan XU.pdf)
 
 ---
 
-## 🎓 Education
+## Education
 **Imperial College London (ICL)** — MSc in Design Engineering  
 
 **Shanghai University (SHU)** — BEng in Industrial Design  
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 **Research Assistant**, Audio Experience Design Group, Imperial College London  
 01/2025–Present  
 Supervised by Prof. Lorenzo Picinali  
@@ -26,7 +26,7 @@ Supervised by Prof. Lorenzo Picinali
 
 ---
 
-## 🧩 Academic Projects
+## Academic Projects
 **Anti-Fall Belt for Disabled Elderly** · 04/2022–2023  
 Led academic writing, prototyping, and user testing of inflatable wearable.
 
@@ -35,7 +35,7 @@ Conducted early-stage UX research and system prototype design.
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 **Design Operations Intern**, NFT Dept., HashKey Co., Ltd., Shanghai · 06–08/2024  
 Designed interactive H5 game for Web3 users (150K+ reach).
 
@@ -44,7 +44,7 @@ Contributed to smart bus station design & prototyping.
 
 ---
 
-## 🎶 Extracurricular Activities
+## Extracurricular Activities
 **President**, Original Music Club, SHU · 09/2021–2022  
 Organized live events and performed as keyboardist at university and public festivals.  
 
@@ -53,14 +53,14 @@ Led the Shanghai Universities Volunteer Team.
 
 ---
 
-## 🏅 Awards & Honors
+## Awards & Honors
 - Third Prize in Product Design — 9th Shanghai University Cultural & Creative Works Exhibition (2024)  
 - Excellent Student of University, SHU (2021–2022)  
 - Leadership Scholarship, SHU (2021–2022)
 
 ---
 
-## 🧠 Skills
+## Skills
 **Design Software:** Unity, MaxMSP, TouchDesigner, KeyShot, Processing, SolidWorks, AutoCAD  
 **Programming:** C, Java, Python  
 **Languages:** English (fluent), Mandarin (native)
