@@ -11,47 +11,67 @@ classes: wide
 ---
 
 ## Education
-**Imperial College London (ICL)** — MSc in Design Engineering  
-**Shanghai University (SHU)** — BEng in Industrial Design  
+**Imperial College London (ICL), Dyson School of Design Engineering**  
+*Master of Science in Design Engineering*  
+09/2024–2025  
+
+**Shanghai University (SHU)**  
+*Bachelor of Engineering in Industrial Design*  
+09/2020–06/2024  
 
 ---
 
 ## Research Experience
-**Research Assistant**, Audio Experience Design Group, Imperial College London  
+**Research Assistant**, Audio Experience Design Group, Imperial College London, London, UK  
+*Supervised by Prof. Lorenzo Picinali*  
 01/2025–Present  
-Supervised by Prof. Lorenzo Picinali  
 
-- Conduct research on spatial hearing and auditory perception through VR-based experiments in Unity.  
-- Focus areas: HRTF measurement & personalization, localization tasks, and Precedence Effect studies.  
-- Responsible for experimental design, Unity implementation, audio calibration, UI development, and participant testing.
+- Conducting research on spatial hearing and auditory perception through VR-based experiments in Unity.  
+  Current work focuses on HRTF measurement and personalization, localization tasks comparing individualized HRTFs and DTFs, and a Precedence Effect study exploring how early reflections and temporal delays influence spatial stability.  
+- Responsible for experimental design, Unity implementation, audio calibration, UI development, and participant testing.  
+- Collaborating with faculty and PhD researchers on data analysis, documentation, and manuscript preparation.  
+
+### Academic Projects
+**Anti-Fall Belt for Disabled Elderly**, Shanghai, China  
+Led academic writing, prototyping, and user testing of inflatable wearable.  
+04/2022–2023  
+
+**Home Management and Service Design for COPD**, Shanghai, China  
+Conducted early-stage UX research; built system prototypes and ran usability testing.  
+04/2021–2022  
 
 ---
 
-## Industry Experience
-**Design Operations, NFT Department**, HashKey Group (Wanxiang Blockchain Co., Ltd.), Shanghai, China  
+## Internship Experience
+**Design Operations, NFT Dept.**, Shanghai HashKey Co., Ltd., Shanghai, China  
+Designed interactive H5 game for Web3 users (150K+ reach).  
 06–08/2024  
-- Produced and curated NFT assets, processing over 1,000 images daily.  
-- Designed interactive experiences for crypto-based H5 games with 150,000+ users within 24 hours.  
-- Managed Web3 communities and contributed to product iteration through user feedback.  
 
-**Product Designer**, Heilongjiang Caige Design & Intelligence Group Co., Harbin, China  
+**Product Designer**, Caige Design & Intelligence Group Co., Harbin, China  
+Contributed to smart bus station design and prototyping.  
 06–08/2022  
-- Conducted field research, created design sketches, and coordinated prototype manufacturing for the government-funded “Smart Bus Station” project.  
 
-**Star Barista**, Starbucks Coffee Co., Shanghai  
+---
+
+## Extracurricular Activities
+**Volunteer**, Shanghai Science and Technology Museum, Shanghai, China  
+Shanghai Universities Volunteer Team Leader  
 02/2022–2023  
-- Responsible for beverage preparation, material organization, and cash handling in a high-volume environment.
+
+**President**, Original Music Club, SHU  
+Organized live events and performed as keyboardist at university and public festivals.  
+09/2021–2022  
 
 ---
 
 ## Awards & Honors
-- **Outstanding Student Award**, Shanghai University — top 5%  
-- **University Scholarship**, for leadership and teamwork in student projects  
-- **President**, Original Music Club (500+ members) — organized performances and collaborations  
+- **Third Prize**, Product Design, 9th Shanghai University Student Cultural and Creative Works Exhibition, 08/2024  
+- **Excellent Student of University**, Shanghai University, 12/2021–2022  
+- **Leadership Scholarship**, Shanghai University, 11/2021–2022  
 
 ---
 
 ## Skills
-**Software:** Unity, Max/MSP, Arduino, Python, React, Vite, Highcharts, Rhino, Adobe CC  
-**Technical:** Audio calibration, HRTF/DTF processing, data visualization, interactive prototyping  
-**Languages:** English (Fluent), Mandarin (Native)  
+**Design Software:** Unity, MaxMSP, TouchDesigner, KeyShot, Processing, SolidWorks, AutoCAD  
+**Programming:** C, Java, Python  
+**Language:** English (Fluent), Mandarin (Native)
