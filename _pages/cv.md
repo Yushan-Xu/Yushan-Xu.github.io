@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-[Download full CV (PDF)](/files/CV-YushanXu.pdf)
+[Download full CV (PDF)](/files/CV - YushanXu.pdf)
 
 ---
 
