@@ -10,8 +10,14 @@ classes: wide
 **Research Assistant**  
 Audio Experience Design Lab, Imperial College London  
 
-I’m a researcher and designer working at the intersection of **spatial acoustics, auditory perception, and interactive media**.  
-My work explores how humans experience sound and multisensory stimuli in immersive environments — combining **audio engineering, perceptual studies, interactive visualization, and tangible interface design**.
+I am a researcher and designer working at the intersection of **spatial acoustics, auditory perception, and interactive media**.  
+My work investigates immersive listening through **audio engineering, perceptual experimentation (HRTFs, precedence effect), interactive visualization, and tangible interface design**.
 
-This website presents my **research projects**, **publications**, and **selected design works**.  
+My practice bridges the **tangible and the invisible**, informed by speculative and multisensory projects such as *Mushroom* and *Smell the Sound*.  
+These works explore how **perception, emotion, and interaction** shape spatial experience, embodiment, and connection.
+
+Building on this background, my current research at **Imperial College London** focuses on **spatial audio and auditory perception in virtual and mixed environments**.  
+I study how **individualized acoustic cues and lead–lag temporal relationships** influence sound localization, perceptual fusion, and auditory stability, and how **experimental interaction design** can function as a methodological tool for human-centered immersive audio systems.
+
+This website presents my **selected design works**.  
 Feel free to explore my [Portfolio](/portfolio/) or download my [CV](/cv/).
