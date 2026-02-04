@@ -16,8 +16,8 @@ My work investigates immersive listening through **audio engineering, perceptual
 My practice bridges the **tangible and the invisible**, informed by speculative and multisensory projects such as *Mushroom* and *Smell the Sound*.  
 These works explore how **perception, emotion, and interaction** shape spatial experience, embodiment, and connection.
 
-Building on this background, my current research at **Imperial College London** focuses on **spatial audio and auditory perception in virtual and mixed environments**.  
-I study how **individualized acoustic cues and lead–lag temporal relationships** influence sound localization, perceptual fusion, and auditory stability, and how **experimental interaction design** can function as a methodological tool for human-centered immersive audio systems.
+I am currently researching **spatial audio and auditory perception in virtual and mixed environments** at **Imperial College London**,  
+with a focus on **HRTFs, precedence effect, and human-centered immersive audio systems**.
 
 This website presents my **selected design works**.  
 Feel free to explore my [Portfolio](/portfolio/) or download my [CV](/cv/).
