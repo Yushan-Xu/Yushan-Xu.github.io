@@ -11,6 +11,10 @@ classes: wide
 ---
 
 ## Education
+**Indiana University Bloomington, The Media School**  
+*PhD in Media Arts and Sciences*  
+08/2026–Present  
+
 **Imperial College London (ICL), Dyson School of Design Engineering**  
 *Master of Science in Design Engineering*  
 09/2024–2025  
@@ -22,52 +26,21 @@ classes: wide
 ---
 
 ## Research Experience
+**Graduate Assistant**, Kinetic Immersion and Extended Reality (KIX) Lab, Indiana University Bloomington, Bloomington, IN, USA  
+*Supervised by Prof. Ivica Bukvic*  
+08/2026–Present  
+
+- Supporting research and development in immersive media and spatial audio.  
+- Participating in lab demonstrations and outreach events, and helping maintain day-to-day lab operations.  
+
 **Research Assistant**, Audio Experience Design Group, Imperial College London, London, UK  
 *Supervised by Prof. Lorenzo Picinali*  
-01/2025–Present  
+01/2025–07/2026  
 
-- Conducting research on spatial hearing and auditory perception through VR-based experiments in Unity.  
-  Current work focuses on HRTF measurement and personalization, localization tasks comparing individualized HRTFs and DTFs, and a Precedence Effect study exploring how early reflections and temporal delays influence spatial stability.  
+- Conducted research on spatial hearing and auditory perception through VR-based experiments in Unity, including HRTF measurement and personalization and localization tasks comparing individualized HRTFs and DTFs.  
+- Worked on a Precedence Effect study exploring how early reflections and temporal delays influence spatial stability.  
 - Responsible for experimental design, Unity implementation, audio calibration, UI development, and participant testing.  
-- Collaborating with faculty and PhD researchers on data analysis, documentation, and manuscript preparation.  
-
-### Academic Projects
-**Anti-Fall Belt for Disabled Elderly**, Shanghai, China  
-Led academic writing, prototyping, and user testing of inflatable wearable.  
-04/2022–2023  
-
-**Home Management and Service Design for COPD**, Shanghai, China  
-Conducted early-stage UX research; built system prototypes and ran usability testing.  
-04/2021–2022  
-
----
-
-## Internship Experience
-**Design Operations, NFT Dept.**, Shanghai HashKey Co., Ltd., Shanghai, China  
-Designed interactive H5 game for Web3 users (150K+ reach).  
-06–08/2024  
-
-**Product Designer**, Caige Design & Intelligence Group Co., Harbin, China  
-Contributed to smart bus station design and prototyping.  
-06–08/2022  
-
----
-
-## Extracurricular Activities
-**Volunteer**, Shanghai Science and Technology Museum, Shanghai, China  
-Shanghai Universities Volunteer Team Leader  
-02/2022–2023  
-
-**President**, Original Music Club, SHU  
-Organized live events and performed as keyboardist at university and public festivals.  
-09/2021–2022  
-
----
-
-## Awards & Honors
-- **Third Prize**, Product Design, 9th Shanghai University Student Cultural and Creative Works Exhibition, 08/2024  
-- **Excellent Student of University**, Shanghai University, 12/2021–2022  
-- **Leadership Scholarship**, Shanghai University, 11/2021–2022  
+- Collaborated with faculty and PhD researchers on data analysis, documentation, and manuscript preparation.  
 
 ---
 
