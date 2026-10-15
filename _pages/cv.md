@@ -6,10 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-[Download full CV (PDF)](/files/CV - Yushan XU.pdf)
-
----
-
 ## Education
 **Indiana University Bloomington, The Media School**  
 *PhD in Media Arts and Sciences*  
