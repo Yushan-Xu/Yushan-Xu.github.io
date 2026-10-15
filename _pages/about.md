@@ -21,4 +21,4 @@ My practice also bridges the **tangible and the invisible**, through speculative
 These works explore how **perception, emotion, and interaction** shape spatial experience, embodiment, and connection.
 
 This website presents my **selected design works**.  
-Feel free to explore my [Portfolio](/portfolio/) or download my [CV](/cv/).
+Feel free to explore my [Portfolio](/portfolio/).
