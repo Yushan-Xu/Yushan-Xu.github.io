@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Education
-**Indiana University Bloomington, The Media School**  
+**Indiana University Bloomington (IUB), The Media School**  
 *PhD in Media Arts and Sciences*  
 08/2026–Present  
 
